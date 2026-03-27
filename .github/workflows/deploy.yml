@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: huydevit/testactions:latest
+          tags: quocbao269/demo-app:latest
